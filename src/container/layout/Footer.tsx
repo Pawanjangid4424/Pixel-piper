@@ -80,6 +80,8 @@ const Footer: React.FC = () => {
 
           </Link>
 
+          <h3>Pawan </h3>
+
           <div className="flex -mx-2">
             <Link
               to={''}
