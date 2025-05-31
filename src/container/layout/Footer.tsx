@@ -80,7 +80,9 @@ const Footer: React.FC = () => {
 
           </Link>
 
-          <h3>Pawan </h3>
+   <p className="text-sm text-gray-600 dark:text-gray-300 text-center">
+    © {new Date().getFullYear()} Pawan & Bhanu Project. All rights reserved.
+  </p>
 
           <div className="flex -mx-2">
             <Link
